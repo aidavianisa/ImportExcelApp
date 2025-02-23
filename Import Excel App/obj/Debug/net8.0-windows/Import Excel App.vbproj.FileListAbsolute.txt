@@ -1,0 +1,20 @@
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\bin\Debug\net8.0-windows\Import Excel App.exe
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\bin\Debug\net8.0-windows\Import Excel App.deps.json
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\bin\Debug\net8.0-windows\Import Excel App.runtimeconfig.json
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\bin\Debug\net8.0-windows\Import Excel App.dll
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\bin\Debug\net8.0-windows\Import Excel App.pdb
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\bin\Debug\net8.0-windows\ExcelDataReader.dll
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.vbproj.AssemblyReference.cache
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import_Excel_App.Form1.resources
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.vbproj.GenerateResource.cache
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.GeneratedMSBuildEditorConfig.editorconfig
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.AssemblyInfoInputs.cache
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.AssemblyInfo.vb
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.vbproj.CoreCompileInputs.cache
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import E.97859D77.Up2Date
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.dll
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\refint\Import Excel App.dll
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.pdb
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\Import Excel App.genruntimeconfig.cache
+D:\d\Pemrograman Visual\Import Excel App\Import Excel App\obj\Debug\net8.0-windows\ref\Import Excel App.dll
